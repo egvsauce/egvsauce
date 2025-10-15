@@ -7,12 +7,14 @@
 I love to find solutions to real-world problems and to learn new ways of doing things!
 I've always love computers since I was a kid, so becoming a Software Engineer always felt right. When I'm not coding or learning new skills, I love to play guitar/piano and make music. Feel free to take a listen! Also check out my site below:
 
+
 ## 🔭 Software Engineer Portfolio and Music
 
 ###
 [![MY MUSIC](https://img.shields.io/badge/My_Music-gray?style=for-the-badge)](https://soundcloud.com/bem-vas-495350629)
 
 [![MY PORTFOLIO](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge)](https://ethan-vasquez.vercel.app/)
+
 
 
 ## 🛠 Skills
@@ -39,9 +41,14 @@ I've always love computers since I was a kid, so becoming a Software Engineer al
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-## 🌱 Currently I'm working on
-### 
 
+## 🌱 I'm Currently Working on
+### Browser-Based DAW
+Anybody can use this website to make their own songs!
+
+
+## Feel free to reach out!
+### ethankontakt@gmail.com
 <!--
 **egvsauce/egvsauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
